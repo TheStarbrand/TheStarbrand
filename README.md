@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheStarbrand
+- 👋 Hi, I’m Divine
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything fun
